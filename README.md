@@ -1,4 +1,4 @@
-# cnn-rice-classification
+# Image Classification of Types of Rice Grains 
 
 Welcome to this image classification project where I trained a Convolutional Neural Network (CNN) to identify different varieties of rice grains. Rice is a staple food for over half the world's population, and being able to automatically classify rice types can be incredibly useful in quality control, agriculture, and food tech. In this project, I worked with a dataset of 75,000 grain images across five rice varieties:
 
